@@ -1,0 +1,17 @@
+<xml enocding="UTF-8" verison="4.0">
+<user>
+  <perhipals>
+    <user?id=01> Ronchetto, Matthew
+    <user?id=02> Vanderman, Tai
+  </perhipals>
+  <money>
+    <currency>
+      <icon> £
+      <3LV> GCS
+    </currency>
+  </money>
+  <user?cash=£>
+    <user?id=01> 5,000,000,000,000£ GCS
+    <user?id=02> 500,000,000£ GCS
+  </user?cash=£>
+</user>
